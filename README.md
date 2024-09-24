@@ -4,7 +4,7 @@
 <h1>Hi There! 👋</h1>  
 
 ## My name is 
-(Java | Spring Boot | Docker | React JS | Vue JS ) 🚀 
+(Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS ) 🚀 
 
 - 🌐 Passionate about web development 
 
