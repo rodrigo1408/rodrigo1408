@@ -1,12 +1,9 @@
-- stop 👷🏾‍♂ under construction stay tuned 🚧.
+<h1>Hi There! :metal: </h1>  
 
-
-<h1>Hi There! 👋</h1>  
-
-## My name is 
+## My name is Rodrigo Barreto
 (Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS ) 🚀 
 
-- 🌐 Passionate about web development 
+- :telephone: just need to turn on the BatTelephone :smile:
 
 <div align="left">
   
