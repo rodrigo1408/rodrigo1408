@@ -1,3 +1,16 @@
 - stop 👷🏾‍♂ under construction stay tuned 🚧.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo1408&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<h1>Hi There! 👋</h1>  
+
+## My name is 
+(Java | Spring Boot | Docker | React JS | Vue JS ) 🚀 
+
+- 🌐 Passionate about web development 
+
+<div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo1408&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
