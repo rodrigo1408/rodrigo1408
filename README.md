@@ -1,7 +1,7 @@
 <h1>Hi There! :metal: </h1>  
 
 ## My name is Rodrigo Barreto
-(Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS ) 🚀 
+(Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS | Ionic) 🚀 
 
 - :telephone: just need to turn on the BatTelephone :smile:
 
