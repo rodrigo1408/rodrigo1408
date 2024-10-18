@@ -1,9 +1,9 @@
-<h1>Hi There! :metal: </h1>  
+<h1>Wassup, earthlings! 🖖🏽 </h1>  
 
 ## My name is Rodrigo Barreto
-(Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS | Ionic) 🚀 
+I am a Full Stack Developer and Enthusiast with a huge love for Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS | Ionic 🚀 
 
-- :telephone: just need to turn on the BatTelephone :smile:
+- :telephone: just need to turn on the Horsephone 🐎
 
 <div align="left">
   
