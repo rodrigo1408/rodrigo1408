@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=rodrigo1408&color=006bed)
 
 <h1>Wassup, earthlings! 🖖🏽 </h1>  
 
