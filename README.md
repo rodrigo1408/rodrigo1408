@@ -15,7 +15,7 @@
 
 ## My Skills
 
-**Applications and data**
+**Applications and DataBase**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
