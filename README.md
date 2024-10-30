@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=rodrigo1408&color=006bed)
 
-<h1>Wassup, Humans! 🖖🏽 </h1>  
+<h1>Wassup! 🦇 </h1>  
 
 ## My name is Rodrigo Barreto
   I'm a Developer and Enthusiast with a huge love for Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS | Ionic 🚀 
 
-- :telephone: just need to turn on the Horsephone 🐎
+- :telephone: just need to turn on the Batphone 🦇
 
 ## About me
 
