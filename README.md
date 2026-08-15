@@ -1,19 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=rodrigo1408&color=006bed)
 
-<h1>Wassup! 🖖🏼 </h1>  
+<h1>Wassup! I'm Rodrigo Barreto🖖🏼 </h1>  
 
-## My name is Rodrigo Barreto
-  I'm a Developer and Enthusiast with a huge love for Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS | Ionic 🚀 
+ I'm a Developer and Enthusiast with a huge love for Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS | Ionic 🚀 
 
 - :telephone: If you need anything, just let me know. 🖖🏼
 
-## About me
+## 🧠 About me
 
 - 🤔 Exploring new technologies and developetment solution of software.
 - 💼 I think in create a business, but no idea. 😉
 - 🌱 Learning more about Java | C/C++ | Embedded System.
 
-## My Skills
+## 🛠️ My Skills
 
 **Applications and DataBase**
 
@@ -51,7 +50,10 @@
 [![GitHub](https://img.shields.io/github/followers/rodrigo1408?label=follow&style=social)](https://github.com/rodrigo1408)
 <div align="left">
   
-[![Barreto top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo1408&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+  <em>Keep coding. Keep building.</em> ⚙️👷🏻‍♂️🛠️🔧
+</p>
+
 </div>
 
 
