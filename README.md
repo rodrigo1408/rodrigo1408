@@ -46,7 +46,7 @@
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-Rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-barreto-2b1ba6129/)](https://www.linkedin.com/in/rodrigo-barreto-2b1ba6129/)
-[![Gmail Badge](https://img.shields.io/badge/-rodrigobarreto744@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigobarreto744@gmail.com)](mailto:rodrigobarreto744@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigobarreto744@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigobarreto744@gmail.com)](mailto:rodrigobarreto744@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/rodrigo1408?label=follow&style=social)](https://github.com/rodrigo1408)
 <div align="left">
   
