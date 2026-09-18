@@ -1,60 +1,65 @@
 ![](https://komarev.com/ghpvc/?username=rodrigo1408&color=006bed)
 
-<h1>Wassup! I'm Rodrigo Barreto🖖🏼 </h1>  
+<h1>Hi, I'm Rodrigo Barreto 🖖🏼</h1>
 
- I'm a Developer and Enthusiast with a huge love for Java | Spring Boot | Ruby | Docker | React JS | Vue JS | HTML | CSS | Ionic 🚀 
+Java developer from Brazil with 4+ years building enterprise systems with **Java, Spring Boot, Oracle PL/SQL and Angular**, including REST services for a large healthcare cooperative. Today I'm building AI tools that migrate legacy Oracle Forms to modern Java.
 
-- :telephone: If you need anything, just let me know. 🖖🏼
+🌐 **Portfolio:** [rodrigo1408.github.io](https://rodrigo1408.github.io)
 
-## 🧠 About me
+## 🚀 Featured project: LIMIAR
 
-- 🤔 Exploring new technologies and developetment solution of software.
-- 💼 I think in create a business, but no idea. 😉
-- 🌱 Learning more about Java | C/C++ | Embedded System.
+**[oracle-migration-ai](https://github.com/rodrigo1408/oracle-migration-ai)** is the first pipeline of LIMIAR, an AI platform for modernizing legacy systems. It reads Oracle Forms and Reports exported as XML, reconstructs the business rules they contain and generates a Java / Spring Boot version that must pass review before it counts as done.
 
-## 🛠️ My Skills
+- 8 specialized agents orchestrated with LangGraph and Claude
+- Deterministic extraction before every AI step, so no rule is invented without evidence
+- ~1,900 automated tests, SQLite checkpointing and a review loop with retry guardrails
 
-**Applications and DataBase**
+## 🧩 Other projects
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
-![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [api_ev](https://github.com/rodrigo1408/api_ev) | Electric vehicle battery and motor management API | Java 17, Spring Boot 3.3 |
+| [api_atendimento](https://github.com/rodrigo1408/api_atendimento) | Routes support requests to teams with queueing | Java 17, Spring Boot 3.3 |
+| [gate-unlock](https://github.com/rodrigo1408/gate-unlock) | Unlocks a gate from a user and access code | Java 21, Spring Boot 3.3, JPA |
+| [api_semaforo](https://github.com/rodrigo1408/api_semaforo) | Traffic light with auto cycle, manual override and audit log | Java 21, Spring Boot 3.3 |
+
+## 🛠️ Skills
+
+**Backend and databases**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![PostGres](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 
-**Utilities**
+**AI**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-**DevOps**
+**Tools**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff)
 
-**Tools of development**
+## 📫 Where to find me
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style-flat&logo=visualstudiocode&logoColor=fff)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-
-
-## Where to find me
-
-[![Linkedin](https://img.shields.io/badge/-Rodrigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-barreto-2b1ba6129/)](https://www.linkedin.com/in/rodrigo-barreto-2b1ba6129/)
-[![Gmail Badge](https://img.shields.io/badge/-rodrigobarreto744@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigobarreto744@gmail.com)](mailto:rodrigobarreto744@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D5C6B?style=flat-square&logo=githubpages&logoColor=white)](https://rodrigo1408.github.io)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-barreto-2b1ba6129/)
+[![Email](https://img.shields.io/badge/-rodrigomendesbarreto@hotmail.com-006bed?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:rodrigomendesbarreto@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/rodrigo1408?label=follow&style=social)](https://github.com/rodrigo1408)
-<div align="left">
-  
+
 <p align="center">
   <em>Keep coding. Keep building.</em> ⚙️👷🏻‍♂️🛠️🔧
 </p>
-
-</div>
-
-
-
