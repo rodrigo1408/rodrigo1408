@@ -12,7 +12,7 @@ Java developer from Brazil with 4+ years building enterprise systems with **Java
 
 - 8 specialized agents orchestrated with LangGraph and Claude
 - Deterministic extraction before every AI step, so no rule is invented without evidence
-- ~1,900 automated tests, SQLite checkpointing and a review loop with retry guardrails
+- 1,800+ automated tests, SQLite checkpointing and a review loop with retry guardrails
 
 ## 🧩 Other projects
 
