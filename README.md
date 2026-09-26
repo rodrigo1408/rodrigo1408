@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Rodrigo Barreto 🖖🏼</h1>
 
-Java developer from Brazil with 4+ years building enterprise systems with **Java, Spring Boot, Oracle PL/SQL and Angular**, including REST services for a large healthcare cooperative. Today I'm building AI tools that migrate legacy Oracle Forms to modern Java.
+Java developer from Brazil with 5+ years building enterprise systems with **Java, Spring Boot, Oracle PL/SQL and Angular**, including REST services for a large healthcare cooperative. Today I'm building AI tools that migrate legacy Oracle Forms to modern Java.
 
 🌐 **Portfolio:** [rodrigo1408.github.io](https://rodrigo1408.github.io)
 
