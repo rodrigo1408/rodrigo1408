@@ -53,6 +53,14 @@ Java developer from Brazil with 4+ years building enterprise systems with **Java
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff)
 
+## 👾 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigo1408/rodrigo1408/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigo1408/rodrigo1408/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/rodrigo1408/rodrigo1408/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 📫 Where to find me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0D5C6B?style=flat-square&logo=githubpages&logoColor=white)](https://rodrigo1408.github.io)
