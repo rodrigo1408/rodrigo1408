@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-labelledby="t d">
   <title id="t">Rodrigo Barreto — legacy modernization and applied AI</title>
-  <desc id="d">A portfolio map: a central profile node wired to four categories. Featured projects (LIMIAR and llm-do-zero) are selected, and a side panel summarizes LIMIAR: working pipeline, 9 of 9 gate scenarios, 3,057 tests.</desc>
+  <desc id="d">A portfolio map: a central profile node wired to four categories. Featured projects (EduFin and llm-do-zero) are selected, and a side panel summarizes EduFin: working full-stack app, 14 of 14 end-to-end flows, 155 automated tests.</desc>
   <defs>
     <radialGradient id="bg" cx="22%" cy="55%" r="70%">
       <stop offset="0" stop-color="#152325"/><stop offset=".7" stop-color="#0B1213"/>
@@ -55,7 +55,7 @@
   <text x="230" y="150" fill="#EEF2F0" font-size="14" font-weight="600" text-anchor="middle">Rodrigo Barreto</text>
   <text x="230" y="168" fill="#8E9B99" font-size="12" text-anchor="middle">Java · Oracle PL/SQL · applied AI</text>
   <g>
-    <text class="mono" fill="#8E9B99" font-size="8.5" letter-spacing="1.2"><textPath href="#ring" textLength="410" lengthAdjust="spacing">JAVA · ORACLE · LANGGRAPH · CLAUDE · NUMPY · PYTEST ·</textPath></text>
+    <text class="mono" fill="#8E9B99" font-size="8.5" letter-spacing="1.2"><textPath href="#ring" textLength="410" lengthAdjust="spacing">JAVA · SPRING · REACT · ORACLE · CLAUDE · NUMPY ·</textPath></text>
     <animateTransform attributeName="transform" type="rotate" from="0 230 257" to="360 230 257" dur="80s" repeatCount="indefinite"/>
   </g>
   <circle cx="230" cy="257" r="62" fill="url(#glow)">
@@ -88,10 +88,10 @@
   <!-- items -->
   <g class="mono" font-size="10">
     <rect x="742" y="170" width="214" height="54" rx="9" fill="#162123" stroke="#FFFFFF" stroke-opacity=".14"/>
-    <text x="756" y="192" fill="#D9C79A" font-size="13.5" font-weight="500" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">LIMIAR · oracle-migration-ai</text>
+    <text x="756" y="192" fill="#D9C79A" font-size="13.5" font-weight="500" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">EduFin · edufin</text>
     <rect x="756" y="202" width="54" height="15" rx="4" fill="#4ADE80" fill-opacity=".1"/><text x="783" y="213" fill="#4ADE80" text-anchor="middle">working</text>
-    <rect x="815" y="202" width="54" height="15" rx="4" fill="#FBBF24" fill-opacity=".1"/><text x="842" y="213" fill="#FBBF24" text-anchor="middle">private</text>
-    <rect x="874" y="202" width="60" height="15" rx="4" fill="#A78BFA" fill-opacity=".12"/><text x="904" y="213" fill="#A78BFA" text-anchor="middle">8 agents</text>
+    <rect x="815" y="202" width="46" height="15" rx="4" fill="#4ADE80" fill-opacity=".1"/><text x="838" y="213" fill="#4ADE80" text-anchor="middle">public</text>
+    <rect x="866" y="202" width="74" height="15" rx="4" fill="#A78BFA" fill-opacity=".12"/><text x="903" y="213" fill="#A78BFA" text-anchor="middle">Java+React</text>
 
     <text x="748" y="262" fill="#EEF2F0" font-size="13.5" font-weight="500" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">llm-do-zero</text>
     <rect x="748" y="272" width="34" height="15" rx="4" fill="#A78BFA" fill-opacity=".12"/><text x="765" y="283" fill="#A78BFA" text-anchor="middle">v0.1</text>
@@ -104,28 +104,24 @@
     <rect width="254" height="320" rx="14" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity=".08"/>
     <g transform="translate(18 20)" fill="none" stroke="#D9C79A" stroke-width="1.6"><path d="M2 6l9-4 9 4-9 4z"/><path d="M2 11l9 4 9-4M2 16l9 4 9-4"/></g>
     <text x="48" y="36" fill="#EEF2F0" font-size="12.5">Featured projects</text>
-    <text x="18" y="74" fill="#EEF2F0" font-size="22" font-weight="500">LIMIAR</text>
-    <text x="18" y="94" fill="#8E9B99" font-size="12">Oracle Forms → Spring Boot, multi-agent</text>
+    <text x="18" y="74" fill="#EEF2F0" font-size="22" font-weight="500">EduFin</text>
+    <text x="18" y="94" fill="#8E9B99" font-size="12">Financial education for teens, full stack</text>
     <rect x="18" y="106" width="218" height="20" rx="6" fill="#4ADE80" fill-opacity=".1" stroke="#4ADE80" stroke-opacity=".3"/>
-    <text x="127" y="120" fill="#4ADE80" font-size="11" font-weight="500" text-anchor="middle">Working pipeline · in development</text>
+    <text x="127" y="120" fill="#4ADE80" font-size="11" font-weight="500" text-anchor="middle">Working app · open source</text>
 
     <rect x="18" y="138" width="218" height="88" rx="10" fill="#141C1C" stroke="#5EEAD4" stroke-opacity=".2"/>
-    <text x="30" y="158" fill="#EEF2F0" font-size="12">Diff-gate demo</text>
-    <text x="30" y="196" fill="#EEF2F0" font-size="30" font-weight="500">9/9</text>
-    <text x="30" y="214" fill="#8E9B99" font-size="10.5">scenarios as expected</text>
-    <g transform="translate(112 180)">
-      <rect x="0" width="10" height="20" rx="2" fill="#4ADE80"/>
-      <rect x="13" width="10" height="20" rx="2" fill="#FBBF24" fill-opacity=".75"/><rect x="26" width="10" height="20" rx="2" fill="#FBBF24" fill-opacity=".75"/>
-      <rect x="39" width="10" height="20" rx="2" fill="#FBBF24" fill-opacity=".75"/><rect x="52" width="10" height="20" rx="2" fill="#FBBF24" fill-opacity=".75"/>
-      <rect x="65" width="10" height="20" rx="2" fill="#FBBF24" fill-opacity=".75"/><rect x="78" width="10" height="20" rx="2" fill="#FBBF24" fill-opacity=".75"/>
-      <rect x="91" width="10" height="20" rx="2" fill="#FBBF24" fill-opacity=".75"/><rect x="104" width="10" height="20" rx="2" fill="#FBBF24" fill-opacity=".75"/>
+    <text x="30" y="158" fill="#EEF2F0" font-size="12">End-to-end flows</text>
+    <text x="30" y="196" fill="#EEF2F0" font-size="30" font-weight="500">14/14</text>
+    <text x="30" y="214" fill="#8E9B99" font-size="10.5">passing in Playwright</text>
+    <g transform="translate(122 180)">
+      <rect x="0" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="8" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="16" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="24" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="32" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="40" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="48" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="56" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="64" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="72" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="80" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="88" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="96" width="6" height="20" rx="2" fill="#4ADE80"/><rect x="104" width="6" height="20" rx="2" fill="#4ADE80"/>
     </g>
 
     <rect x="18" y="238" width="105" height="64" rx="10" fill="#FFFFFF" fill-opacity=".03" stroke="#FFFFFF" stroke-opacity=".08"/>
-    <text x="30" y="266" fill="#EEF2F0" font-size="20" font-weight="500">3,057</text>
-    <text x="30" y="286" fill="#8E9B99" font-size="10.5">tests on master</text>
+    <text x="30" y="266" fill="#EEF2F0" font-size="20" font-weight="500">155</text>
+    <text x="30" y="286" fill="#8E9B99" font-size="10.5">automated tests</text>
     <rect x="131" y="238" width="105" height="64" rx="10" fill="#FFFFFF" fill-opacity=".03" stroke="#FFFFFF" stroke-opacity=".08"/>
-    <text x="143" y="266" fill="#EEF2F0" font-size="20" font-weight="500">10</text>
-    <text x="143" y="286" fill="#8E9B99" font-size="10.5">deterministic gates</text>
+    <text x="143" y="266" fill="#EEF2F0" font-size="20" font-weight="500">16</text>
+    <text x="143" y="286" fill="#8E9B99" font-size="10.5">domain modules</text>
   </g>
 </svg>
