@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-labelledby="t d">
   <title id="t">Rodrigo Barreto — legacy modernization and applied AI</title>
-  <desc id="d">A portfolio map: a central profile node wired to four categories. Featured projects (EduFin and llm-do-zero) are selected, and a side panel summarizes EduFin: working full-stack app, 14 of 14 end-to-end flows, 155 automated tests.</desc>
+  <desc id="d">A portfolio map: a central profile node wired to four categories. Featured projects (EduFin AI and llm-do-zero) are selected, and a side panel summarizes EduFin AI: working full-stack app, 14 of 14 end-to-end flows, 167 automated tests.</desc>
   <defs>
     <radialGradient id="bg" cx="22%" cy="55%" r="70%">
       <stop offset="0" stop-color="#152325"/><stop offset=".7" stop-color="#0B1213"/>
@@ -88,7 +88,7 @@
   <!-- items -->
   <g class="mono" font-size="10">
     <rect x="742" y="170" width="214" height="54" rx="9" fill="#162123" stroke="#FFFFFF" stroke-opacity=".14"/>
-    <text x="756" y="192" fill="#D9C79A" font-size="13.5" font-weight="500" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">EduFin · edufin_ai</text>
+    <text x="756" y="192" fill="#D9C79A" font-size="13.5" font-weight="500" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">EduFin AI · edufin_ai</text>
     <rect x="756" y="202" width="54" height="15" rx="4" fill="#4ADE80" fill-opacity=".1"/><text x="783" y="213" fill="#4ADE80" text-anchor="middle">working</text>
     <rect x="815" y="202" width="46" height="15" rx="4" fill="#4ADE80" fill-opacity=".1"/><text x="838" y="213" fill="#4ADE80" text-anchor="middle">public</text>
     <rect x="866" y="202" width="74" height="15" rx="4" fill="#A78BFA" fill-opacity=".12"/><text x="903" y="213" fill="#A78BFA" text-anchor="middle">Java+React</text>
@@ -104,7 +104,7 @@
     <rect width="254" height="320" rx="14" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity=".08"/>
     <g transform="translate(18 20)" fill="none" stroke="#D9C79A" stroke-width="1.6"><path d="M2 6l9-4 9 4-9 4z"/><path d="M2 11l9 4 9-4M2 16l9 4 9-4"/></g>
     <text x="48" y="36" fill="#EEF2F0" font-size="12.5">Featured projects</text>
-    <text x="18" y="74" fill="#EEF2F0" font-size="22" font-weight="500">EduFin</text>
+    <text x="18" y="74" fill="#EEF2F0" font-size="22" font-weight="500">EduFin AI</text>
     <text x="18" y="94" fill="#8E9B99" font-size="12">Financial education for all ages, full stack</text>
     <rect x="18" y="106" width="218" height="20" rx="6" fill="#4ADE80" fill-opacity=".1" stroke="#4ADE80" stroke-opacity=".3"/>
     <text x="127" y="120" fill="#4ADE80" font-size="11" font-weight="500" text-anchor="middle">Working app · open source</text>
@@ -118,7 +118,7 @@
     </g>
 
     <rect x="18" y="238" width="105" height="64" rx="10" fill="#FFFFFF" fill-opacity=".03" stroke="#FFFFFF" stroke-opacity=".08"/>
-    <text x="30" y="266" fill="#EEF2F0" font-size="20" font-weight="500">155</text>
+    <text x="30" y="266" fill="#EEF2F0" font-size="20" font-weight="500">167</text>
     <text x="30" y="286" fill="#8E9B99" font-size="10.5">automated tests</text>
     <rect x="131" y="238" width="105" height="64" rx="10" fill="#FFFFFF" fill-opacity=".03" stroke="#FFFFFF" stroke-opacity=".08"/>
     <text x="143" y="266" fill="#EEF2F0" font-size="20" font-weight="500">16</text>

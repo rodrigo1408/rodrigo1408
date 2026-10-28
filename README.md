@@ -1,5 +1,5 @@
 <a href="https://rodrigo1408.github.io">
-  <img src="assets/header.svg" width="100%" alt="Rodrigo Barreto: legacy modernization and applied AI. Portfolio map with EduFin (working full-stack app, 14/14 end-to-end flows, 167 automated tests) and llm-do-zero.">
+  <img src="assets/header.svg" width="100%" alt="Rodrigo Barreto: legacy modernization and applied AI. Portfolio map with EduFin AI (working full-stack app, 14/14 end-to-end flows, 167 automated tests) and llm-do-zero.">
 </a>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/rodrigo1408/edufin_ai"><img src="assets/card-edufin.svg" width="49%" alt="EduFin, featured project. Full-stack financial education platform for all ages. Working app, public repository. End-to-end flows 14/14 in Playwright, desktop and mobile. 119 backend tests, 34 frontend tests, 16 domain modules, 0 floating-point values for money. Java 21, Spring Boot 4, React 19, TypeScript, PostgreSQL, Playwright."></a>
+  <a href="https://github.com/rodrigo1408/edufin_ai"><img src="assets/card-edufin.svg" width="49%" alt="EduFin AI, featured project. Full-stack financial education platform for all ages. Working app, public repository. End-to-end flows 14/14 in Playwright, desktop and mobile. 119 backend tests, 34 frontend tests, 16 domain modules, 0 floating-point values for money. Java 21, Spring Boot 4, React 19, TypeScript, PostgreSQL, Playwright."></a>
   <a href="https://github.com/rodrigo1408/llm-do-zero"><img src="assets/card-llm.svg" width="49%" alt="llm-do-zero, featured project. A language model built from scratch in NumPy, v0.1, Transformer next. Validation loss 1.84 versus 2.39 bigram baseline and 3.74 uniform guess. 18,746 parameters, 37 tests run in CI, 5 reproducible experiments, test loss 1.82."></a>
 </p>
 
@@ -26,7 +26,7 @@
 <summary><b>More about the projects</b></summary>
 <br>
 
-**[EduFin](https://github.com/rodrigo1408/edufin_ai)**. A financial education platform for all ages: savings goals, income and expense tracking, an interest calculator, progressive courses, quizzes, healthy gamification, reports, a moderated community and simulated investment wallets. A modular Spring Boot 4 (Java 21) monolith serves a React 19 + TypeScript SPA on the same origin, backed by PostgreSQL and Flyway.
+**[EduFin AI](https://github.com/rodrigo1408/edufin_ai)**. A financial education platform for all ages: savings goals, income and expense tracking, an interest calculator, progressive courses, quizzes, healthy gamification, reports, a moderated community and simulated investment wallets. A modular Spring Boot 4 (Java 21) monolith serves a React 19 + TypeScript SPA on the same origin, backed by PostgreSQL and Flyway.
 - Security from the start: server-side sessions with HttpOnly cookies and CSRF, role-based permissions, per-user data isolation, rate limiting, and LGPD data export and deletion.
 - Money is `BigDecimal`/`NUMERIC`, balances are derived from the movement history, and quiz scores are computed only on the server.
 - 119 backend tests, 34 frontend tests and 14 Playwright end-to-end flows that go from the UI to the database and back.
