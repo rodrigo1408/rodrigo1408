@@ -105,7 +105,7 @@
     <g transform="translate(18 20)" fill="none" stroke="#D9C79A" stroke-width="1.6"><path d="M2 6l9-4 9 4-9 4z"/><path d="M2 11l9 4 9-4M2 16l9 4 9-4"/></g>
     <text x="48" y="36" fill="#EEF2F0" font-size="12.5">Featured projects</text>
     <text x="18" y="74" fill="#EEF2F0" font-size="22" font-weight="500">EduFin</text>
-    <text x="18" y="94" fill="#8E9B99" font-size="12">Financial education for teens, full stack</text>
+    <text x="18" y="94" fill="#8E9B99" font-size="12">Financial education for all ages, full stack</text>
     <rect x="18" y="106" width="218" height="20" rx="6" fill="#4ADE80" fill-opacity=".1" stroke="#4ADE80" stroke-opacity=".3"/>
     <text x="127" y="120" fill="#4ADE80" font-size="11" font-weight="500" text-anchor="middle">Working app · open source</text>
 
