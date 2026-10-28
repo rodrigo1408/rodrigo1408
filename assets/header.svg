@@ -88,7 +88,7 @@
   <!-- items -->
   <g class="mono" font-size="10">
     <rect x="742" y="170" width="214" height="54" rx="9" fill="#162123" stroke="#FFFFFF" stroke-opacity=".14"/>
-    <text x="756" y="192" fill="#D9C79A" font-size="13.5" font-weight="500" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">EduFin · edufin</text>
+    <text x="756" y="192" fill="#D9C79A" font-size="13.5" font-weight="500" font-family="Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">EduFin · edufin_ai</text>
     <rect x="756" y="202" width="54" height="15" rx="4" fill="#4ADE80" fill-opacity=".1"/><text x="783" y="213" fill="#4ADE80" text-anchor="middle">working</text>
     <rect x="815" y="202" width="46" height="15" rx="4" fill="#4ADE80" fill-opacity=".1"/><text x="838" y="213" fill="#4ADE80" text-anchor="middle">public</text>
     <rect x="866" y="202" width="74" height="15" rx="4" fill="#A78BFA" fill-opacity=".12"/><text x="903" y="213" fill="#A78BFA" text-anchor="middle">Java+React</text>
