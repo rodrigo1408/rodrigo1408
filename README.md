@@ -41,6 +41,12 @@
 
 <img src="assets/skills.svg" width="100%" alt="Skills. Backend: Java, Spring Boot, REST APIs, JPA, Angular. Oracle and data: PL/SQL, Oracle Forms and Reports, SQL tuning, PostgreSQL. AI engineering: LangGraph, Claude agents, deterministic validation of AI output, neural networks in NumPy. Quality and delivery: pytest, Pydantic, GitHub Actions, Git, Docker.">
 
+<br>
+
+<p align="center">
+  <a href="https://github-timeline.frangolab.com/u/rodrigo1408?tema=escuro&lang=pt-BR"><img src="https://github-timeline.frangolab.com/embed/rodrigo1408/trilha.svg?tema=escuro&lang=pt-BR" width="100%" alt="GitHub Timeline: trilha da carreira de rodrigo1408"></a>
+</p>
+
 <p align="center"><sub>
   Earlier Spring Boot practice projects:
   <a href="https://github.com/rodrigo1408/api_ev">api_ev</a> ·
