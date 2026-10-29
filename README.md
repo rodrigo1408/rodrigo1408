@@ -44,7 +44,19 @@
 <br>
 
 <p align="center">
+  <a href="https://github-timeline.frangolab.com/u/rodrigo1408?tema=escuro&lang=pt-BR"><img src="https://github-timeline.frangolab.com/badge/rodrigo1408.svg?tema=escuro&lang=pt-BR" alt="GitHub Timeline"></a>
+</p>
+
+<p align="center">
   <a href="https://github-timeline.frangolab.com/u/rodrigo1408?tema=escuro&lang=pt-BR"><img src="https://github-timeline.frangolab.com/embed/rodrigo1408/trilha.svg?tema=escuro&lang=pt-BR" width="100%" alt="GitHub Timeline: trilha da carreira de rodrigo1408"></a>
+</p>
+
+<p align="center">
+  <a href="https://github-timeline.frangolab.com/u/rodrigo1408?tema=escuro&lang=pt-BR"><img src="https://github-timeline.frangolab.com/embed/rodrigo1408/linguagens.svg?tema=escuro&lang=pt-BR" width="100%" alt="GitHub Timeline: rio de linguagens de rodrigo1408"></a>
+</p>
+
+<p align="center">
+  <a href="https://github-timeline.frangolab.com/u/rodrigo1408?tema=escuro&lang=pt-BR"><img src="https://github-timeline.frangolab.com/embed/rodrigo1408/conquistas.svg?tema=escuro&lang=pt-BR" width="100%" alt="GitHub Timeline: conquistas de rodrigo1408"></a>
 </p>
 
 <p align="center"><sub>
